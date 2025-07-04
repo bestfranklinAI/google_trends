@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pydantic
+python-multipart
+lxml
+# JavaScript rendering support for Google Trends
+selenium
+webdriver-manager
